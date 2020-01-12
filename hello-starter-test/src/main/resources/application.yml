@@ -1,0 +1,8 @@
+hello:
+  version: 1.0
+  http-proxy:
+    ip: 192.168.0.1
+    port: 8080
+  https-proxy:
+    ip: 127.0.0.1
+    port: 80
